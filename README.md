@@ -8,7 +8,6 @@ The following 100+ Python excercises were collected from Github account [zhiwehu
 - Solution
 
 ## 2. Level Description
-- __Level 1 Beginner__: Beginner means someone who has just gone through an introductory Python course. He can solve some problems with 1 or 2 Python classes or functions. Normally, the answers could directly be found in the textbooks.
-- __Level 2 Intermediate__: Intermediate means someone who has just learned Python, but already has a relatively strong programming background from before. He should be able to solve problems which may involve 3 or 3 Python classes or functions. The answers cannot be directly be found in the textbooks.
-- __Level 3 Advanced__: He should use Python to solve more complex problem using more rich libraries functions and data structures and algorithms. He is supposed to solve the problem using several Python standard packages and advanced techniques.
-
+- __Level 1 Beginner__: Problems can be solved with 1 or 2 Python classes or functions. 
+- __Level 2 Intermediate__: Problems may involve 3 or 4 Python classes or functions to solve them. 
+- __Level 3 Advanced__: Complex problems that need several libraries functions, data structures and algorithms. 
