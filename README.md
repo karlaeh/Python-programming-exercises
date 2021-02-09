@@ -1,6 +1,6 @@
 # Python-programming-exercises
 
-The following 100+ Python excercises were collected from Github account [zhiwehu] (https://github.com/zhiwehu) in order to practice and give extra ways to solve them. 
+The following 100+ Python excercises were collected from Github account [zhiwehu](https://github.com/zhiwehu) in order to practice and give extra ways to solve them. 
 
 ## 1. Problem Template
 - Question
